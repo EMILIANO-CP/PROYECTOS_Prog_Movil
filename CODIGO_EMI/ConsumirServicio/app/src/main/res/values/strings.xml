@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ConsumirServicio</string>
+    <string name="c_digo_postal">Código Postal</string>
+    <string name="c_digo_postal_entrada">Código Postal entrada</string>
+    <string name="ingresar_c_digo_postal">Ingresar código postal</string>
+    <string name="buscar">Buscar</string>
+    <string name="error">No se encuentra la información revice su conexion</string>
+    <string name="falta_cd">Introduce un codigo postal</string>
+    <string name="no_hay_datos">No hay datos</string>
+</resources>
